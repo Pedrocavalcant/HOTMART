@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+
+    align-items: center;
+}
+
+header, h2, nav{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
